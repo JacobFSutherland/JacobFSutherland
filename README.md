@@ -93,13 +93,6 @@ Currently residing in [Victoria, British Columbia Canada](https://www.google.com
 <br>
 <br>
 
-<h2 align="center" style="font-size: 22px">  What am I listening to? </h2>
-<div align="center">
-  
-</div>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22wz5qupuqpk5vtgxpg4udxiy&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
-
   
 <h2 align="center" style="font-size: 22px"> 📊 My Coding Stats 📊 </h2>
   <p align="center">
